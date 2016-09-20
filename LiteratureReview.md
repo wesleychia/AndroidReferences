@@ -109,6 +109,14 @@
 
 ## Native Code Analysis
 + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
++ DroidNative: Semantic-Based Detection of Android Native Code Malware, ARXIV 2016
++ Towards briding the gap between dalvik bytecode and native code, IEEE 2015
++ DroidScope: Seamlessly Reconstructing the OS and Dalvik Semantic View for Dynamic Android Malware Analysis, Usenix 2012
++ Robusta: Taming the Native Beast of the JVM, CCS 10
++ NativeGuard Protecting Android Applications from 3rd party, WiSec '14
++ Native code execution control for attack mitigation on android, SPSM '13
++ REIL: A platform-independent intermediate representation of disassembled code for static code analysis, SAS 2011
+
 
 ## Clone Analysis
 + Juxtapp: A Scalable System for Detecting Code Resuse Among Android Applications, DIMVA 2012
